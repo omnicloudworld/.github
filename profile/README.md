@@ -1,12 +1,10 @@
 
-__Omnicloud is the stack of well-known software libraries and frameworks which have been extended by cloud-related methods.__
+Omnicloud is the stack of well-known software libraries and frameworks which have been extended by cloud-related methods.
 
-__Omnicloud envisions a world where applications and data can move seamlessly between different cloud providers or on-premise.__
+Omnicloud envisions a world where applications and data can move seamlessly between different cloud providers or on-premise.
 
----
-<br/>
+<br/><bt/>
 
-### Migration
-
-Omnicloud has the prototype which name is SkyANT. It hostes on [GitLab](https://gilab.com/skyant).
-Now is doing the migration process.
+> **Note**
+> 
+> **Omnicloud is under migration from the prototype [SkyANT](https://gilab.com/skyant).**
